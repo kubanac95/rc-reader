@@ -11,5 +11,19 @@
   "scripts": {
     "install": "node-gyp rebuild"
   },
-  "gypfile": true
+  "gypfile": true,
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubanac95/rc-reader.git"
+  },
+  "keywords": [
+    "vehicle",
+    "registration",
+    "reader"
+  ],
+  "bugs": {
+    "url": "https://github.com/kubanac95/rc-reader/issues"
+  },
+  "homepage": "https://github.com/kubanac95/rc-reader#readme"
 }
