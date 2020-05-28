@@ -3,10 +3,8 @@
   "description": "Registration certificate reader",
   "version": "1.0.0",
   "main": "index.js",
-  "private": true,
-  "author": {
-    "name": "Aleksandar Nikolic"
-  },
+  "license": "MIT",
+  "author": "Aleksandar Nikolic",
   "dependencies": {
     "nan": "^2.0.0"
   },
