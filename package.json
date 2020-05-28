@@ -22,6 +22,9 @@
     "registration",
     "reader"
   ],
+  "contributors": [
+    "Dusan Djordjevic <theneura@gmail.com>"
+  ],
   "bugs": {
     "url": "https://github.com/kubanac95/rc-reader/issues"
   },
