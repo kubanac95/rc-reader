@@ -1,7 +1,7 @@
 {
   "name": "rc-reader",
   "description": "Registration certificate reader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "author": "Aleksandar Nikolic",
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/kubanac95/rc-reader/issues"
   },
-  "homepage": "https://github.com/kubanac95/rc-reader#readme"
+  "homepage": "https://github.com/kubanac95/rc-reader#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
